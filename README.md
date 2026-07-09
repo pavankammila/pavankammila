@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br><br>Hi, I'm Kammila Pavan Kumar, a Computer Science & Engineering (AI/ML) student with a strong passion for technology, problem-solving, and continuous learning.<br><br>I currently serve as a **Google Student Ambassador**, where I enjoy promoting AI technologies, collaborating with fellow students, and building a strong developer community.<br><br>My programming skills include **C, C++, Python, and Java**, and I am currently expanding my knowledge in HTML, Artificial Intelligence, and Machine Learning. I'm also highly interested in Cloud Computing and enjoy exploring modern cloud technologies and scalable solutions.<br><br>I believe in learning by building real-world projects, contributing to open-source, and continuously improving my technical and professional skills. My goal is to become a skilled software engineer capable of creating innovative and impactful solutions.<br>
 
 
